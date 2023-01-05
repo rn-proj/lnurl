@@ -1,0 +1,13 @@
+{
+  "status":"OK",
+  "tag":"payRequest",
+  "commentAllowed":255,
+  "callback":"https://getalby.com/lnurlp/lnrn/callback",
+  "metadata":"[[\"text/identifier\", \"lnrn@getalby.com\"], [\"text/plain\", \"Sats for lnrn\"]]",
+  "minSendable":100,"maxSendable":11000000000,
+  "payerData":
+    {
+      "name":{"mandatory":false},
+      "email":{"mandatory":false}
+    }
+}
